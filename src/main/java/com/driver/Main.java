@@ -5,5 +5,6 @@ public class Main {
         RWOnly obj=new RWOnly();
         obj.setName("Prem");
         System.out.println(obj.getName());
+//        System.out.println("hi");
     }
 }
